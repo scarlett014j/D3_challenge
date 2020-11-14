@@ -13,6 +13,10 @@ body {
   /* Padding bottom by footer height */
   padding-bottom: 80px;
 }
+#scatter {
+  padding-bottom: 40px;
+  padding-top: 30px;
+}
 
 #footer {
   position: absolute;
